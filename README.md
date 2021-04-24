@@ -4,7 +4,7 @@ This Demo use DraftJs to build a TextEditor with features like links and Readmor
 ![react-DraftJs-Demo - Animated gif demo](Demo/Demo.gif)
 
 ## CodeSandBox
-https://codesandbox.io/s/agitated-glade-ggvig
+https://codesandbox.io/s/react-draftjs-demo-ggvig
 
 ## How to Run
 ```
