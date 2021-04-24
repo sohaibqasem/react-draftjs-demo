@@ -1,11 +1,15 @@
-import React from 'react';
-import './App.css';
+import { FC } from 'react'
 
-const App : React.FC = () => {
+import ReadmoreEditor from './Examples/ReadmoreExample'
+import BasicEditor from './Examples/EditorExample'
+
+const App : FC = () => {
+  
   return (
-    <div className="App">
-      
-    </div>
+    <>
+      <BasicEditor/>
+      <ReadmoreEditor />
+    </>
   );
 }
 

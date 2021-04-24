@@ -1,0 +1,16 @@
+.editor {
+    box-sizing: border-box;
+    cursor: text;
+    word-break: break-word !important;
+  }
+  
+  .editor :global(.public-DraftEditor-content) {
+    min-height: 150px;
+    height: fit-content;
+  }
+
+
+  // plugins styles
+  .linkifyPlugin {
+    text-decoration: none;
+  }
