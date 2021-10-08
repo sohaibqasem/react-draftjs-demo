@@ -1,0 +1,15 @@
+// Mention Plugin Base
+.MentionPlugin_Container {
+    height: fit-content;
+    max-height: 302px;
+    overflow-y: auto;
+    border-radius: 9px;
+    z-index: 100000;
+    min-width: 268px;
+}
+
+// Mention MyNetwork Plugin
+.MentionMyNetworkPlugin_tag {
+    color: blue;
+    text-decoration: none;
+}
